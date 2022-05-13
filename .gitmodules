@@ -1,0 +1,24 @@
+[submodule "EABase"]
+	path = EABase
+	url = https://github.com/electronicarts/EABase.git
+[submodule "EAStdC"]
+	path = EAStdC
+	url = https://github.com/electronicarts/EAStdC.git
+[submodule "EASTL"]
+	path = EASTL
+	url = https://github.com/electronicarts/EASTL.git
+[submodule "EAThread"]
+	path = EAThread
+	url = https://github.com/electronicarts/EAThread.git
+[submodule "EATest"]
+	path = EATest
+	url = https://github.com/electronicarts/EATest.git
+[submodule "EAAssert"]
+	path = EAAssert
+	url = https://github.com/electronicarts/EAAssert.git
+[submodule "EAMain"]
+	path = EAMain
+	url = https://github.com/electronicarts/EAMain.git
+[submodule "EACopy"]
+	path = EACopy
+	url = https://github.com/electronicarts/EACopy.git
